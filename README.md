@@ -1,6 +1,12 @@
 # quizmania
 
+
 ﻿project name - quizmaina (online examination application)
+ 
+About project -
+
+
+Online Quiz Application(quizmania) (online examination system )is a web based application for technical evaluation. Online Quiz Examination System not only replace paperwork but also releases the workload of faculty. It fulfills the   requirements of the institutes to conduct the exams online. It fulfils the requirements. Students can give exam without the need of going to any physical destination. They can view the result at the same time. Thus the purpose of the site is to provide a system that saves the efforts and time of faculty.
 
  ------------------------------------------------------------
  Instruction for linux system--
