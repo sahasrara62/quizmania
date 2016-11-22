@@ -1,5 +1,5 @@
 # quizmania
 
-# online examination system project in PHP + MySQL  
+online examination system project in PHP + MySQL  
 
 
