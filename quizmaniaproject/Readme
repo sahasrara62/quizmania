@@ -1,0 +1,10 @@
+# Quizmania
+Quizmania is a website  for setup online quiz .
+It is a PHP + MySQL project.
+Installation  instruction :
+
+read readme file in quizmania repositry .
+
+Default admin email id is "admin@quizmania.com" and password is "admin".
+Default user is "user@quizmania.com" and password is "12345"
+Thanx.
