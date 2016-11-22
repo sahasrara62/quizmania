@@ -1,0 +1,1 @@
+ <div class='col-md-3'></div><div class='col-md-6'><form class='form-horizontal title1' name='form' action='update.php?ADDU=$id' method='POST' onsubmit="return login('dropdown','dropdown2','qns','optionA','optionB','optionC','optionD','ans')">
